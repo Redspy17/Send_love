@@ -1,2 +1,2 @@
 # Send_love
-Telegram bot to send personalized messages to special people, on special dates!
+Telegram bot to send personalized messages to people, on special dates!
